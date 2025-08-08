@@ -2,3 +2,5 @@
 venv
 
 .ipynb*
+
+chroma_data
