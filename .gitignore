@@ -1,8 +1,9 @@
 chroma_data
 temp
 memory.db
-
-agentic_rag
+wikipedia_db
+wikipedia_db_v2
+agentic_rag.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
